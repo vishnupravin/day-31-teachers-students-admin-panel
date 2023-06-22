@@ -120,7 +120,7 @@ function Topbar() {
               aria-expanded="false"
             >
               <span class="mr-2 d-none d-lg-inline text-white small">
-                Vignesh Board
+                Vishnu Board
               </span>
               <img
                 class="img-profile rounded-circle"
